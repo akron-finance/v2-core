@@ -5,6 +5,7 @@ out/
 zkout/
 broadcast/
 cache/
+.github/
 
 .env
 

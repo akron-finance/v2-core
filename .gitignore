@@ -1,12 +1,10 @@
 build/
-buildV1/
 node_modules/
 script/
-foundry-out/
 out/
 zkout/
 broadcast/
-test/
+cache/
 
 .env
 
